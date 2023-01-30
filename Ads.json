@@ -1,7 +1,7 @@
 {
   "AdType": "facebook",
-  "Banner": "",
-  "Interstitial": "",
+  "Banner": "0",
+  "Interstitial": "0",
   "NativeBanner": "979779686201292_982173952628532",
   "Rewarded": "979779686201292_982172479295346",
   "count": "4"
